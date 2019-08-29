@@ -1,6 +1,3 @@
-variable "ibm_sl_username" {}
-variable "ibm_sl_api_key" {}
-
 variable "datacenter" {
   default = "wdc04"
 }
